@@ -1,0 +1,3 @@
+rootProject.name = 'AteljeReact'
+
+include ':app'
